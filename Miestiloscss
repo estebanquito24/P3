@@ -1,0 +1,26 @@
+body {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: rgb(255, 24, 24);
+}
+
+h1 {
+  font-size: 32px;
+  color: darkblue;
+}
+
+p {
+  font-size: 16px;
+}
+
+.destacado {
+  color: rgb(19, 198, 230);
+
+}
+
+.contenedor {
+  font-size: 20px;
+}
+
+.contenedor p {
+  font-size: 20px;
+}
